@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-haikel",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haikel43/random-str-msg-haikel.git"
+  },
+  "keywords": [],
+  "author": "Haikel Mustafa <haikel43@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haikel43/random-str-msg-haikel/issues"
+  },
+  "homepage": "https://github.com/Haikel43/random-str-msg-haikel#readme",
+  "bin": {
+    "random-str-msg-haikel": "bin/global.js"
+  },
+  "preferGlobal": true
+}
